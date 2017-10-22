@@ -1,0 +1,2 @@
+# myComponents
+alap kórdrészletek
